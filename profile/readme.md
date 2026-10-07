@@ -10,4 +10,4 @@ A collection of my university lessons, notes, examples, and projects.
 - 🗃️ Database
 - 🌐 Web Development
 
-<img src="./schedule.jpg" style="width: 800px; height: 800px" />
+<img src="./schedule.jpg" style="width: 800px; height: 400px" />
