@@ -9,3 +9,5 @@ A collection of my university lessons, notes, examples, and projects.
 - 🦀 Rust
 - 🗃️ Database
 - 🌐 Web Development
+
+<img src="./schedule.jpg" style="width: 800px; height: 800px" />
