@@ -14,3 +14,7 @@
 <div align="center">
   <sub>Developed & maintained for <b>GIC</b> • Institute of Technology of Cambodia (Techno)</sub>
 </div>
+
+<div align="center">
+  
+</div>
