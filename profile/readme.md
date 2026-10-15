@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./GIC LEGACY LOGO.jpg" style="width: 200px; height: 200px;"/>
+
 # 🎓 GIC Academic Course Vault
 
 **Institute of Technology of Cambodia (ITC / Techno)**  
