@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./GIC LEGACY LOGO.jpg" style="width: 200px; height: 200px;"/>
+<img src="./Victor.jpg" style="width: 200px; height: 200px;"/>
 
 # 🎓 GIC Academic Course Vault
 
